@@ -1,6 +1,6 @@
 ## Hi, I am Diwakar Kumar! Great to see you here! 👋
 
-<img src="./profile-pic(3).png" alt="Hello" 
+<img src="./profile-pic.png" alt="Hello" 
      style="width: 150px; height: 150px; border-radius: 50%; border: 5px solid #ddd; transition: all 0.3s ease-in-out; display: block; margin: 0 auto;"
      onmouseover="this.style.width='120px'; this.style.height='120px'; this.style.transform='translateY(-10px)';"
      onmouseout="this.style.width='150px'; this.style.height='150px'; this.style.transform='translateY(0)';"/>
