@@ -45,9 +45,7 @@ I am Diwakar Kumar, currently pursuing my Bachelor's in Technology from NIE Inst
 
 ---
 
-### 📊 Stats
 
-![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=diwakar-kumar&show_icons=true&count_private=true&hide=contribs,issues&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=151515)
 
 ![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diwakar-kumar&layout=compact&title_color=fff&text_color=9f9f9f&bg_color=151515)
 
