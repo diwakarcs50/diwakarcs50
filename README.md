@@ -53,3 +53,6 @@ I am Diwakar Kumar, currently pursuing my Bachelor's in Technology from NIE Inst
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/diwakar_53?theme=dark&font=source_code_pro&ext=activity)
 
+![GFG Profile Views](https://komarev.com/ghpvc/?username=sherlocked7&color=green)
+
+
