@@ -38,6 +38,11 @@ I am Diwakar Kumar, currently pursuing my Bachelor's in Technology from NIE Inst
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
+### 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=diwakarcs50&show_icons=true&theme=dark)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diwakarcs50&layout=compact&theme=dark)
+
 ---
 
 ### 📊 Stats
