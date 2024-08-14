@@ -1,6 +1,10 @@
 ## Hi, I am Diwakar Kumar! Great to see you here! 👋
 
-<img src="./pics.jpg" alt="Hello"/>
+<img src="./profile-pic(3).png" alt="Hello" 
+     style="width: 150px; height: 150px; border-radius: 50%; border: 5px solid #ddd; transition: all 0.3s ease-in-out; display: block; margin: 0 auto;"
+     onmouseover="this.style.width='120px'; this.style.height='120px'; this.style.transform='translateY(-10px)';"
+     onmouseout="this.style.width='150px'; this.style.height='150px'; this.style.transform='translateY(0)';"/>
+
 
 I am Diwakar Kumar, currently pursuing my Bachelor's in Technology from NIE Institute Of Technology. I am a tech enthusiast & MERN stack developer. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
