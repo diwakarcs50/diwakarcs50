@@ -1,5 +1,7 @@
 ## Hi, I am Diwakar Kumar! Great to see you here! 👋
 
+<img src="" alt="Hello"/>
+
 I am Diwakar Kumar, currently pursuing my Bachelor's in Technology from NIE Institute Of Technology. I am a tech enthusiast & MERN stack developer. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-diwakar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diwakar)](https://www.linkedin.com/in/diwakar-kumar25/)
