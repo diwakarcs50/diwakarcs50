@@ -5,7 +5,7 @@
 I am Diwakar Kumar, currently pursuing my Bachelor's in Technology from NIE Institute Of Technology. I am a tech enthusiast & MERN stack developer. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-diwakar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diwakar)](https://www.linkedin.com/in/diwakar-kumar25/)
-[![Gmail Badge](https://img.shields.io/badge/-diwakar2506agrawal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diwakar2506agrawal@gmail.com.com)](mailto:d.7484959595@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-diwakar2506agrawal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:d.7484959595@gmail.com)](mailto:d.7484959595@gmail.com)
 
 ---
 
